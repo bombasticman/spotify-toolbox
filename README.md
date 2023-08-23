@@ -1,4 +1,4 @@
 # spotify-toolbox
 # TODO:
-# add notifications
-# make this godforsaken UI beautiful 
+1. add notifications
+2. make this godforsaken UI beautiful 
